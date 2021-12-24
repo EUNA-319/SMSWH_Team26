@@ -3,18 +3,12 @@
 # 팀명 <26팀>
 
 - 2011340 김성은
-    
-    김숙명(1234567) - 팀장
-    
-    김눈송(2344567), 이송송(1020304)
-    
 - 2013545 이예린
 - 2016060 권정
 - 2012643 고아라
 
 ### 🔹산출물 주소
-
-(예시) https://github.com/Sookmyung-Software-Hackathon/your_repository_url
+https://github.com/Sookmyung-Software-Hackathon/SMSWH_Team26
 
 ### 🔹분야
 
